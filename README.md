@@ -1,4 +1,7 @@
-### Olá, sou o gabriel 
+### Olá, sou o gabriel 😎
+sou aluno de Aluno de analise e desenvolvimento de sistemas na una
+<br>🧑‍💻conhecimentos em HTML e CSS
+
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellucas11&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
