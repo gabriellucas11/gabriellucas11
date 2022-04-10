@@ -1,6 +1,6 @@
 ### Olá, sou o gabriel 😎
 sou aluno de Aluno de analise e desenvolvimento de sistemas na una
-<br>🧑‍💻conhecimentos em HTML e CSS
+<br>🧑‍💻conhecimentos em Python, Java, Node, HTML e CSS
 
 <div>
   <a href="https://github.com/rafaballerini">
